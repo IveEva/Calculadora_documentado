@@ -8,7 +8,6 @@ Para el código que te entrego, genera una nueva versión añadiendo comentarios
 2. [Tarea 2]
 (calculadora_científica.pdf)
 Pide que te genere un documento diferente sólo con la información explicativa del código, para añadirlo como documentación externa que pueda servir para un futuro.
-4. [Tarea 3]
-Una vez tengas los dos archivos, el fichero con el código completado con los comentarios y el fichero de texto externo, pídele que convierta este último fichero a formato md (Markdown). En este punto, para cada uno de los dos códigos, tendrás 3 ficheros (código fuente, código fuente con documentación y fichero md.
+4. [Tarea 3] Una vez tengas los dos archivos, el fichero con el código completado con los comentarios y el fichero de texto externo, pídele que convierta este último fichero a formato md (Markdown). En este punto, para cada uno de los dos códigos, tendrás 3 ficheros (código fuente, código fuente con documentación y fichero md.
 6.
 Crea un repositorio en GitHub con el nombre “Calculadora_documentado” y “WebSemántica_documentado” y sube los tres ficheros para cada uno.
